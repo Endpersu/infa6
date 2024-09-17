@@ -100,7 +100,6 @@
 
 1) F7F18501AF_16; 9551C5524_16; FD7E420_16.
 2) ![image](https://github.com/user-attachments/assets/fc968c5c-d71c-4a3d-b77b-099d521b1927)
-
 3) -
 4) -
 5) -
